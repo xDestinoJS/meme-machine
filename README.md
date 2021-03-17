@@ -20,3 +20,6 @@ Meme Machine can be used to display memes on your social media (e.g. YouTube Vid
     - replace `url` with the url of your website (not required)
 5. Run `node .` 
 6. Point your browser to `http://localhost:3000`
+
+# Credits
+TimeTicks & xDestino
