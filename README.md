@@ -14,5 +14,5 @@ Node.JS, text editor (e.g. VSCode)
 3. Open `index.js` and replace variables "token" and and "url":
     - replace `token` with a Discord bot token (you can get one at the [Discord Developer Portal](https://discord.com/developers))
     - replace `url` with the url of your website
-4. Type `node .` 
+4. Type `node index.js` 
 5. Go to your website!
