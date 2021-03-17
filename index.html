@@ -1,0 +1,16 @@
+<style>*{margin:0;padding:0;}</style>
+<div style="width:max-content; max-width:400px; height:max-content; background-image: url('https://i.imgur.com/Irij1cR.png'); border-radius:10px; padding:10px; float: right;">
+  <span id="info" style="color:white; font-family:arial;">Send an image in the Discord chat, to make it appear here!</span>
+  <img id="demo" style="max-width:100%; border-radius: 10px; max-height: 400px;" onload="document.getElementById('info').remove()" onerror="this.src='https://external-preview.redd.it/9HZBYcvaOEnh4tOp5EqgcCr_vKH7cjFJwkvw-45Dfjs.png?auto=webp&s=ade9b43592942905a45d04dbc5065badb5aa3483'">
+</div>
+<!--  Socket.io  -->
+<script src="/socket.io/socket.io.js"></script> 
+<script>
+  var socket = io();
+  var embed = []
+  
+  socket.on('chat message', function(msg) {
+    embed.push(msg)
+    document.getElementById("demo").src = msg
+  });
+</script>
