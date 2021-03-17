@@ -1,4 +1,4 @@
-![Meme Machine](https://user-images.githubusercontent.com/39455804/111530239-599e7100-8763-11eb-9768-c53283801522.png)
+![Meme Machine](https://user-images.githubusercontent.com/39455804/111539053-be5ec900-876d-11eb-8089-51066504c854.png)
 
 ![Last Commit](https://img.shields.io/github/last-commit/xDestinoJS/meme-machine?style=for-the-badge)
 ![Contributors](https://img.shields.io/github/contributors/xDestinoJS/meme-machine?color=%231E90ff&style=for-the-badge)
