@@ -1,4 +1,4 @@
-# Meme Machine
+![Meme Machine](https://user-images.githubusercontent.com/39455804/111530239-599e7100-8763-11eb-9768-c53283801522.png)
 
 ![Last Commit](https://img.shields.io/github/last-commit/xDestinoJS/meme-machine?style=for-the-badge)
 ![Contributors](https://img.shields.io/github/contributors/xDestinoJS/meme-machine?color=%231E90ff&style=for-the-badge)
@@ -10,9 +10,10 @@ Node.JS, text editor (e.g. VSCode)
 
 # Setup
 1. Run `git clone https://github.com/xDestinoJS/meme-machine` in your terminal
-2. Run `npm install discord.js socket.io`
-3. Open `index.js` and replace variables "token" and and "url":
-    - replace `token` with a Discord bot token (you can get one at the [Discord Developer Portal](https://discord.com/developers))
-    - replace `url` with the url of your website
-4. Type `node index.js` 
-5. Go to your website!
+2. Run `cd meme-machine`
+3. Run `npm install discord.js socket.io express`
+4. Open `index.js` with your text editor and replace the variables "token" and "url":
+    - replace `token` with your Discord bot token (you can get one at the [Discord Developer Portal](https://discord.com/developers))
+    - replace `url` with the url of your website (not required)
+5. Run `node .` 
+6. Point your browser to `http://localhost:3000`
