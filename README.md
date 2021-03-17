@@ -8,6 +8,9 @@ A project created to display images sent in a Discord chat to a website using [d
 # Requirements
 Node.JS, text editor (e.g. VSCode)
 
+# Why?
+Meme Machine can be used to display memes on your social media (e.g. YouTube Videos & Twitch Streams) using [OBS](https://obsproject.com/)'s or [Slobs](https://streamlabs.com/)'s Browser Source.
+
 # Setup
 1. Run `git clone https://github.com/xDestinoJS/meme-machine` in your terminal
 2. Run `cd meme-machine`
