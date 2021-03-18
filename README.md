@@ -22,11 +22,8 @@ Meme Machine can be used to display memes on your social media (e.g. YouTube Vid
 6. Point your browser to `http://localhost:3000`
 
 # How do  I get a Discord Bot Token?
-1. Go to the [Discord Developer Portal](https://discord.com/developers)) and Click on the “New Application” button. Then, give the application a name and click “Create”:
-
-![Image](https://i.imgur.com/PCiPgqU.png)
-
-2. Then, create a Bot User by navigating to the “Bot” tab under settings and clicking “Add Bot”:
+1. Go to the [Discord Developer Portal](https://discord.com/developers)) and Click on the “New Application” button. Then, give the application a name and click “Create”:<br>![Image](https://i.imgur.com/PCiPgqU.png)
+2. Then, create a Bot User by navigating to the “Bot” tab under settings and clicking “Add Bot”:<br>
 ![Image](https://i.imgur.com/P49mTj5.png)<br>
 Click “Yes, do it!” to continue.
 3. Disable public bot if you dont want other people to invite your bot:<br>
