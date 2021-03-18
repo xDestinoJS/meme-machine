@@ -30,7 +30,8 @@ Click "Yes, do it!" to continue.
 ![image](https://user-images.githubusercontent.com/39455804/111617285-33b8b100-87e3-11eb-8514-ffea2b106444.png)
 4. Then, copy your bot token:<br>
 ![image](https://user-images.githubusercontent.com/39455804/111616751-8d6cab80-87e2-11eb-983a-b7656f3d7654.png)
-> ⚠️ Always keep the token a secret, as that is the equivalent to your bot's password. Anyone with the token can log in as your bot.
+
+#### ⚠️ Always keep the token a secret, as that is the equivalent to your bot's password. Anyone with the token can log in as your bot.
 
 # Inviting your bot to your server
 1. Get the Client ID by navigating to the "General Information" tab under settings<br>
