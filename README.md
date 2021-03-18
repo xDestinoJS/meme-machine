@@ -22,7 +22,7 @@ Meme Machine can be used to display memes on your social media (e.g. YouTube Vid
 6. Point your browser to `http://localhost:3000`
 
 # Credits
-TimeTicks & xDestino
+TimeTicks, xDestino and the authors of socket.io, discord.js and express
 
 # ⚠️ Disclaimer
-Users of Meme Machine have the ability to post any image, including NSFW images. I'm _not_ responsible for any ban on any social media for any NSFW content being displayed.
+Users of Meme Machine have the ability to post any image, including NSFW images. I'm _**not**_ responsible for any ban on any social media for any NSFW content being displayed.
