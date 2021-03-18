@@ -24,5 +24,5 @@ Meme Machine can be used to display memes on your social media (e.g. YouTube Vid
 # Credits
 TimeTicks & xDestino
 
-# Disclaimer
+# ⚠️ Disclaimer
 Users of Meme Machine have the ability to post any image, including NSFW images. I'm _not_ responsible for any ban on any social media for any NSFW content being displayed.
